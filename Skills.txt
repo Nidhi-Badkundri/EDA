@@ -1,0 +1,11 @@
+AWS ( EC2 ( ELB / ASG ), S3, VPC, RDS ) 
+Natural Language Processing ( HuggingFace, NLTK, SimpleRNN, LSTM )
+Computer Vision ( OpenCV, CNN )
+Deep Learning ( TensorFlow, Keras, ANN )
+Machine Learning ( Scikit-learn, Regression, Classification )
+Python ( Numpy, Pandas, Matplotlib, Seaborn, PySpark )
+Web Development ( Html, Css, Php, BootStrap )
+Database ( MySQL, NoSQL, MongoDB )
+
+
+npaczmumumckcduvdd@cazlg.com
